@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Vuepress 2 stuff
+.temp/
+.cache/

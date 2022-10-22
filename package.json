@@ -1,0 +1,16 @@
+{
+  "name": "stern-marzahn-new",
+  "version": "0.0.1",
+  "description": "This is used to build the website for the table tennis club VfB Stern Marzahn",
+  "repository": "https://github.com/Kory291/stern-marzahn-new.git",
+  "author": "Lukas Schäfer",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.52"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
