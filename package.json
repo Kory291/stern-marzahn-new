@@ -4,6 +4,7 @@
   "description": "This is used to build the website for the table tennis club VfB Stern Marzahn",
   "repository": "https://github.com/Kory291/stern-marzahn-new.git",
   "author": "Lukas Schäfer",
+  "contributors": ["Richard Plötz"],
   "license": "MIT",
   "private": true,
   "devDependencies": {
