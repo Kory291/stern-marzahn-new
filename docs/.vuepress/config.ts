@@ -21,7 +21,25 @@ export default defineUserConfig({
             },
             {
                 text: "Regelknigge",
-                link: "/regelknigge/"
+                children: [
+                    {
+                        text: "Vor dem Spiel",
+                        link: "/regelknigge/vor_dem_spiel/"
+                    },
+                    {
+                        text: "Satz",
+                        link: "/regelknigge/satz/"
+                    },
+                    {
+                        text: "Doppel",
+                        link: "/regelknigge/doppel/"
+                    },
+                    {
+                        text: "Anfeuern und Coachen",
+                        link: "/regelknigge/anfeuern_und_coachen/"
+                    },
+
+                ]
             },
             {
                 text: "Impressum",
