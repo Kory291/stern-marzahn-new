@@ -69,6 +69,7 @@ export default defineUserConfig({
         ],
         sidebar: false,
         logo: "/images/logo.png",
+        contributors: false
                 
     })
 })
