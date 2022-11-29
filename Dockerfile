@@ -1,7 +1,7 @@
 FROM node:16.18.1-slim as build
 
 COPY . /app
-WORKDIR /app
+WORKDIR /app/docs
 RUN npm install yarn && yarn install && yarn docs:build
 
 FROM httpd:2.4

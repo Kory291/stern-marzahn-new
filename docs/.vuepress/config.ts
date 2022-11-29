@@ -5,6 +5,7 @@ export default defineUserConfig({
     title: 'VfB Stern Marzahn',
     description: ' ',
     dest: "build",
+    base: "/stern-marzahn-new/",
     theme: defaultTheme({
         navbar : [
             {
@@ -69,7 +70,9 @@ export default defineUserConfig({
         ],
         sidebar: false,
         logo: "/images/logo.png",
-        contributors: false
+        contributors: false,
+        colorModeSwitch: true,
+        colorMode: "auto"
                 
     })
 })
