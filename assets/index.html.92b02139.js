@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6eeaeae4","path":"/regelknigge/","title":"","lang":"de-DE","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1666486031000},"filePathRelative":"regelknigge/README.md"}');export{e as data};

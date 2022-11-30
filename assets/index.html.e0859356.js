@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"","lang":"de-DE","frontmatter":{"home":true,"heroText":"Willkommen beim VfB Stern Marzahn"},"excerpt":"","headers":[{"level":3,"title":"Trainingszeiten","slug":"trainingszeiten","link":"#trainingszeiten","children":[]}],"git":{"updatedTime":1669676405000},"filePathRelative":"README.md"}');export{e as data};

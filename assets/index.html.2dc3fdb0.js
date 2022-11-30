@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7adaad39","path":"/regelknigge/anfeuern_und_coachen/","title":"Anfeuern und Coachen","lang":"de-DE","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1668187397000},"filePathRelative":"regelknigge/anfeuern_und_coachen/README.md"}');export{e as data};

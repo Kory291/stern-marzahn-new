@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as n,a as c}from"./app.96aa4a56.js";const o={},s=c("p",null,"weitere Links",-1),_=[s];function r(a,i){return t(),n("div",null,_)}const d=e(o,[["render",r],["__file","index.html.vue"]]);export{d as default};

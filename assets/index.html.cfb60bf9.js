@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-14b8b7fa","path":"/regelknigge/vor_dem_spiel/","title":"Vor dem Spiel","lang":"de-DE","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1668187397000},"filePathRelative":"regelknigge/vor_dem_spiel/README.md"}');export{e as data};
